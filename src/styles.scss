@@ -1,15 +1,9 @@
+@import "variables";
 *,
 *::after,
 *::before {
   box-sizing: border-box;
 }
-
-$bg-light: floralwhite;
-$bg-dark: #333;
-$text-color: rebeccapurple;
-$btn-primary: #333;
-$btn-secondary: #666;
-$btn-active: #888;
 
 .body {
   margin: 0;
