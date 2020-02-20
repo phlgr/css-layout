@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-body {
+.body {
   margin: 0;
   background-color: floralwhite;
   color: rebeccapurple;
@@ -40,6 +40,6 @@ body {
   transition: 0.1s;
 }
 
-.active {
+.bottom-nav__button-active {
   background-color: #666;
 }
